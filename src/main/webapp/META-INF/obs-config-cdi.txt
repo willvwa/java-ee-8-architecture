@@ -1,0 +1,5 @@
+##### Observações sobre bean.xml ####
+
+No caso de uma aplicação web, o "bean.xml" deverá ficar sempre dentro do WEB-INF.
+
+No caso de aplicações ".jar", que não seja uma aplicação web, este arquivo deverá ficar dentro do META-INF
