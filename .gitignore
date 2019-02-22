@@ -1,3 +1,12 @@
+# Configurações do Intellij
+/.idea/
+*.iml
+
+# Configurações do Eclipse
+/.settings/
+/.project
+/.classpath
+
 # Compiled class file
 *.class
 
